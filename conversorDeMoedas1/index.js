@@ -6,8 +6,8 @@
 // alert( "R$" + realEmDolar)
 
 
-//COVENSOR EM LIBRA 
-// var valorEmLibra = 9
+// COVENSOR EM LIBRA 
+//  var valorEmLibra = 50
 // var cotacaoEmReal = 6.04
 // var libraEmReal = cotacaoEmReal * valorEmLibra
 // alert(libraEmReal)
